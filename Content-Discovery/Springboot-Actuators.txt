@@ -1,0 +1,8 @@
+health
+trace
+beans
+env
+heapdump
+dump
+mappings
+logfile
