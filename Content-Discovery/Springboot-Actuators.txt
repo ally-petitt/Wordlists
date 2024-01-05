@@ -6,3 +6,6 @@ heapdump
 dump
 mappings
 logfile
+shutdown
+restart
+jolokia
